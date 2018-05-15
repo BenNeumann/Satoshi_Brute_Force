@@ -2,6 +2,7 @@
 
 <div style="font-weight: 400; width: 70%; text-align: justify; margin-left: auto; margin-right: auto;"> A python version of the galactic lottery project
 </div>
+&nbsp;
 
 <span style="font-weight: 400;">link to the original project: <a href="https://github.com/GalacticAlien/TheGalacticLottery">https://github.com/GalacticAlien/TheGalacticLottery</a></span>
 <div id="w" style="width: 60%; margin-left: auto; margin-right: auto; text-align: left;">
